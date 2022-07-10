@@ -1,5 +1,5 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=cobalt&show_icons=true" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact" />         
+<img src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=cobalt&show_icons=true" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact" />         
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&style=flat" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white&style=flat" />
@@ -33,5 +33,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki"/>
 
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 
