@@ -30,6 +30,7 @@
 
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki)](https://github.com/ryo-ma/github-profile-trophy)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki"/>
 
 
