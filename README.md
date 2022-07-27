@@ -1,9 +1,11 @@
 
 <h2>About Me:</h2>
 <details open>
-<summary><b>:gear: &nbsp;Statistics</b></summary> 
+<summary><b>:gear: &nbsp;Trophies</b></summary> 
 <br>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=cobalt&show_icons=true" />  <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact" /><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki"/> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
+
 </details>
 <br>
 
@@ -46,7 +48,8 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat" /> <a href="https://twitter.com/hamidrb85"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=flat" /><a href="https://www.linkedin.com/in/hamid-reza-bakhtaki-7760b546/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit&style=flat" /> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white&style=flat" /><a href="https://www.kaggle.com/hamidrezabakhtaki"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&style=flat" /> <a href="https://www.reddit.com/user/hamidrb85"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&style=flat" /> 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=cobalt&show_icons=true" />
+<img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact" />  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki"/>
  
 
 
