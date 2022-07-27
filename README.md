@@ -1,4 +1,9 @@
+
+<details>
+<summary><b>:gear: &nbsp;Statistics</b></summary> 
+<br>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=cobalt&show_icons=true" />  <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact" /><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki"/> 
+</details>
 <br>
 <h2>About Me:</h2>
 
