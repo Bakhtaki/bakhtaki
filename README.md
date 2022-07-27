@@ -1,15 +1,8 @@
 
 <h2 align="center">All About Me:</h2>
-IT Manager@ FMCG Industry, 
-IT Business analyst 🧑‍💻 , BI Developer, Python ,Data Engineer
-
 <h2>:bar_chart: statastic</h2> 
 <img src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=dark&show_icons=true"/> 
 <br>
-
-
-
-
 
 <details open>
 <summary><b>:computer: &nbsp;Skills</b></summary>
