@@ -1,5 +1,7 @@
 <h2>:bar_chart: statastic</h2> 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=dark&show_icons=true"/> 
+</div>
 <details open>
 <summary> <b>  :computer: &nbsp;Skills</b></summary>
 <br>
