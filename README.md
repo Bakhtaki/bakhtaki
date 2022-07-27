@@ -2,7 +2,7 @@
 <h2 align="center">All About Me:</h2>
 
 <h2>:bar_chart: statastic</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=cobalt&show_icons=true" /> 
+ <img width="600" src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=dark&show_icons=true" /> 
 <br>
 
 
@@ -48,6 +48,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <img width="400px" height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki&theme=blood"/>
 </details>
 
 <h2>Contact:</h2> 
