@@ -4,7 +4,7 @@ IT Manager@ FMCG Industry,
 IT Business analyst 🧑‍💻 , BI Developer, Python ,Data Engineer
 
 <h2>:bar_chart: statastic</h2> 
-<img src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=dark&show_icons=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact&theme=dark&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=dark&show_icons=true"/> 
 <br>
 
 
@@ -47,10 +47,13 @@ IT Business analyst 🧑‍💻 , BI Developer, Python ,Data Engineer
 <summary><b>:gear: &nbsp;Profile Status</b></summary> 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact&theme=dark&langs_count=8" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki&theme=dark-smoky"/> 
+
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
-<img width="400px" height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki&theme=blood"/>
+
+
 </details>
 
 <h2>Contact:</h2> 
