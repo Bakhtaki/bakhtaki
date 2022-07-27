@@ -3,7 +3,7 @@
 
 <h2>:bar_chart: statastic</h2>
 
-<img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=cobalt&show_icons=true" /> <t> <img height="180px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki"/>
+<img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=cobalt&show_icons=true" /> <img height="180px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki"/>
 <br>
 
 
