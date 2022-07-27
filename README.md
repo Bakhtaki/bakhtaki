@@ -3,7 +3,7 @@
 
 <h2>:bar_chart: statastic</h2>
 
-<img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=cobalt&show_icons=true" /> <img height="180px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki"/>
+<img height="180px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=cobalt&show_icons=true" /> 
 <br>
 
 
@@ -48,7 +48,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
-<img width="400px" height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact" />  
+<img width="400px" height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact" />  <img height="180px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki"/>
 </details>
 
 <h2>Contact:</h2> 
