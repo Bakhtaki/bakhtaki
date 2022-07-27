@@ -37,7 +37,7 @@
 <details >
 <summary><b>:gear: &nbsp;Profile Status</b></summary> 
 <br>
-<div align="center">
+<div align="left">
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact&theme=dark&langs_count=8" /> 
 <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki&theme=dark-smoky"/>
 
