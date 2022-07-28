@@ -38,8 +38,8 @@
 <summary><b>:gear: &nbsp;Profile Status</b></summary> 
 <br>
 <div align="left">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact&theme=dark&langs_count=8" /> 
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki&theme=dark-smoky"/>
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact&theme=dark&langs_count=8" /> 
+<img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki&theme=dark-smoky"/>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=flat&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy) 
