@@ -45,6 +45,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=flat&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy) 
  
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bakhtaki&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 </details>
