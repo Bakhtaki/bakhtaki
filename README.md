@@ -1,7 +1,6 @@
 <h2>:bar_chart: Statstics</h2>
 
 ![](https://komarev.com/ghpvc/?username=your-github-bakhtaki&color=blue)
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bakhtaki&count_private=true&theme=dark&show_icons=true"/> 
 </div>
