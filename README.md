@@ -38,7 +38,9 @@
 <div align="left">
 <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtaki&layout=compact&theme=dark&langs_count=8" /> 
 <img height="192px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki&theme=dark-smoky"/>
+</div>
 
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy) 
  
