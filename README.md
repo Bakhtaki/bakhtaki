@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=flat&row=2&column=4&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy) 
  
 ![](./profile-3d-contrib/profile-night-green.svg)
 
