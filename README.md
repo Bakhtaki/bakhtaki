@@ -40,7 +40,7 @@
 <img height="192px" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtaki&theme=dark-smoky"/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=flat&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bakhtaki&theme=flat&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy) 
  
 ![](./profile-3d-contrib/profile-night-green.svg)
 
